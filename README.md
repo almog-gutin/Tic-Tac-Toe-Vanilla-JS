@@ -34,7 +34,7 @@ It is built with HTML, JavaScript and CSS.
 **Git clone**
 
 ```
-git clone https://github.com/almog-gutin/Tic-Tac-Toe-Vanilla-JS.git
+git clone https://github.com/almoggutin/Tic-Tac-Toe-Vanilla-JS.git
 ```
 
 **Instructions**
